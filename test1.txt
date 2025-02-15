@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 1C4B-5090
-
- Directory of C:\Users\Sambhaji\Desktop\MyGitProject
-
-15-02-2025  15:06    <DIR>          .
-15-02-2025  14:59    <DIR>          ..
-15-02-2025  15:06                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  264,184,999,936 bytes free
+change1
